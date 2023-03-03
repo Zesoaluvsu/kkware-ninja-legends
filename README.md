@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("Ninja Legends Hub - made by kk 🎁 - open source btw", "Serpent")
+local Window = Library.CreateLib("Ninja Legends Hub - made by @c.o.u.r.t.l.a.n.d", "BloodTheme")
 local Tab = Window:NewTab("Main 😎")
 
 local Section = Tab:NewSection("Elements 🌊🔥")
