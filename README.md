@@ -384,5 +384,5 @@ Section:NewButton("Infinite Jump", "jump with no restriction", function()
 end)
 
 local Tab = Window:NewTab("Credits 🏆")
-local Section = Tab:NewSection("Credits = KKXZ")
+local Section = Tab:NewSection("Credits = cland")
 local Section = Tab:NewSection("Kavo UI LIB - Made by xHeptc")
